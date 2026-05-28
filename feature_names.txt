@@ -1,0 +1,14 @@
+in_strength
+out_strength
+betweenness_centrality
+gdp_log_2019
+gdp_pc_log_2019
+trend_growth_17_19
+primary_pct_2019
+secondary_pct_2019
+tertiary_pct_2019
+industry_entropy
+poi_density
+poi_shannon
+ntl_log_2019
+admin_level
